@@ -1,0 +1,10 @@
+title: My Portfolio
+description: A portfolio and things I have made. 
+url: "https://hd00062.github.io"
+baseurl: "/My-Portfolio-Site" 
+
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
